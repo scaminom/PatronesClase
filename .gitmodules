@@ -1,0 +1,3 @@
+[submodule "src/main/java/JoseCamino/InvoiceNest"]
+	path = src/main/java/JoseCamino/InvoiceNest
+	url = git@github.com:scaminom/InvoiceNest.git
